@@ -26,5 +26,5 @@ View tasks in list
 task completion
 task deletion
 
-![Todo App](https://github.com/Mubarakyusuf5/Appverse-Internship/blob/main/todo%20app/image1.png)
-![Todo App](https://github.com/Mubarakyusuf5/Appverse-Internship/blob/main/todo%20app/image2.png)
+![Todo App](https://github.com/Mubarakyusuf5/Appverse-Internship/blob/main/todo%20app/src/image1.png)
+![Todo App](https://github.com/Mubarakyusuf5/Appverse-Internship/blob/main/todo%20app/src/image2.png)
