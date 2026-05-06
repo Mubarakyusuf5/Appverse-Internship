@@ -1,27 +1,27 @@
-React Counter & Form App
+Todo List App
 
-Project Description
+Description
 
-This is a simple React application that demonstrates the use of state management and event handling. It includes a counter and a basic form.
+A simple React application that demonstrates component architecture and props passing by building a todo list.
 
 Features
 
-Counter with increase and decrease buttons
-Form handling with input fields (email and password)
+Add tasks
+Display tasks
+Complete tasks
+Delete Tasks
+Component-based structure
 
+Components
 
-Installation Instructions
-
-Install Node.js
-Create React app using vite:
-
-   npm create vite@latest my-app
-Run the app:
-
-   npm start
+App ( controls core state management)
+TodoList (controls list rendering)
+TodoItem ( controls single item display with task deletion and completion state)
 
 Usage
 
-Click buttons to increase or decrease counter
-Enter email and password in the form
-Click submit to submit data
+Enter a task
+Click "Add"
+View tasks in list
+task completion
+task deletion
