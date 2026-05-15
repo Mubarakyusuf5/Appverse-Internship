@@ -1,30 +1,12 @@
-Todo List App
+Reusable Component App
 
 Description
 
-A simple React application that demonstrates component architecture and props passing by building a todo list.
-
-Features
-
-Add tasks
-Display tasks
-Complete tasks
-Delete Tasks
-Component-based structure
-
-Components
-
-App ( controls core state management)
-TodoList (controls list rendering)
-TodoItem ( controls single item display with task deletion and completion state)
+A simple React application that demonstrates reusable component for button, catd and modals using props to differenciate between same type of component
 
 Usage
 
-Enter a task
-Click "Add"
-View tasks in list
-task completion
-task deletion
+import any of the stated reusable componennt and then provide the various values for the pre defined  props to use
 
-![Todo App](https://github.com/Mubarakyusuf5/Appverse-Internship/blob/main/todo%20app/src/image1.png)
-![Todo App](https://github.com/Mubarakyusuf5/Appverse-Internship/blob/main/todo%20app/src/image2.png)
+for example
+<Button title={"any of title of your choice" color={"any"} click={an onclick event if any}}
