@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Cyber Ape",
+    "artist": "Mubarak",
+    "price": "2 ETH",
+    "image": "https://media.istockphoto.com/id/1386672279/photo/businessman-using-a-computer-for-nft-non-fungible-token-for-crypto-art-blockchain-technology.jpg?s=1024x1024&w=is&k=20&c=ibxxLmg7yU5P4HmB7Xv5RNtG2x2HpWGl1XmeEPgw6ng="
+  },
+  {
+    "id": 2,
+    "name": "Pixel Cat",
+    "artist": "Aisha",
+    "price": "1.5 ETH",
+    "image": "https://media.istockphoto.com/id/1363804594/photo/nft.jpg?s=1024x1024&w=is&k=20&c=83HvwxGUK-OUDNTq1V0VkJcWkLF1AS_81_ZzK53i510="
+  },
+  {
+    "id": 3,
+    "name": "Digital Lion",
+    "artist": "Ali",
+    "price": "3 ETH",
+    "image": "https://media.istockphoto.com/id/1367699775/photo/nft-non-fungible-token-golden-coins-falling-trendy-cryptocurrencies-and-coins-on-the.jpg?s=1024x1024&w=is&k=20&c=-hIyE7TTcGTOsBdCf_YDwvE7vVzg7i6KybLpCvd3OrM="
+  }
+]
