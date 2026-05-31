@@ -7,7 +7,7 @@ export const App = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
-  const API_KEY = "915e91bd4ec4af9c61f6d76bac288b55";
+  const API_KEY = "API_KEY_HERE";
 
   const getWeather = async () => {
     if (!city) return;
